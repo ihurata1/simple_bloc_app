@@ -1,6 +1,6 @@
 # simple_bloc_app
 
-A new Flutter project.
+Simple Flutter Bloc State Management
 
 ## Getting Started
 
